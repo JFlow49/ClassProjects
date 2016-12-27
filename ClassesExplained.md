@@ -1,6 +1,4 @@
-# Classes 
-
-Relevant Experiences: 
+# Relevant Experiences
 
 ##ECE 1304 - Introduction to Electrical and Computer Engineering
 ***
