@@ -2,17 +2,17 @@
 
 Relevant Experiences: 
 
-ECE 1304 - Introduction to Electrical and Computer Engineering
-Descripiton: Introduction to the electrical and computer engineering disciplines including familiarization with relevant design tools. Overview of the profession, contemporary issues, and ethics.
+#ECE 1304 - Introduction to Electrical and Computer Engineering
+##Descripiton: Introduction to the electrical and computer engineering disciplines including familiarization with relevant design tools. ##Overview of the profession, contemporary issues, and ethics.
 Skills Obtained: Data analysis using Matlab and report writing using the Microsoft Office Suite
 
-ECE 1305 - Introduction to Engineering and Computer Programming
-Descripiton: An introduction to the fundamentals of computing and structured programming for electrical engineering.
-Skills Obtained: Used C++ to program various projects to achieve various results
+#ECE 1305 - Introduction to Engineering and Computer Programming
+##Descripiton: An introduction to the fundamentals of computing and structured programming for electrical engineering.
+##Skills Obtained: Used C++ to program various projects to achieve various results
 
-ECE 2372 - Modern Digital System Design
-Descripiton: An introduction to combinational and sequential digital systems.
-Skills Obtained: Hands on experience with hardware to build digital circuits, designed digital systems using Xilinx's ISE Design Suite, and learned basic simulation using VHDL
+#ECE 2372 - Modern Digital System Design
+##Descripiton: An introduction to combinational and sequential digital systems.
+##Skills Obtained: Hands on experience with hardware to build digital circuits, designed digital systems using Xilinx's ISE Design Suite, and learned basic simulation using VHDL
 
 ECE 3362 - Microcontrollers
 Descripiton: Advanced digital systems design. Assembly language programming, interfacing, and applications of microcontrollers.
